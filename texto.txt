@@ -1,0 +1,3 @@
+Probando el comando VIM para editar archivos desde la consola.
+Este archivo deberá estar en GitHub.
+
